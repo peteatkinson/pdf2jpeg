@@ -1,0 +1,11 @@
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\PDF2JPG.exe.config
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\PDF2JPG.exe
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\PDF2JPG.pdb
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\CommandLine.dll
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\CommandLine.xml
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\obj\Debug\PDF2JPG.csprojResolveAssemblyReference.cache
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\obj\Debug\PDF2JPG.csproj.CoreCompileInputs.cache
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\obj\Debug\PDF2JPG.exe
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\obj\Debug\PDF2JPG.pdb
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\Ghostscript.NET.dll
+c:\users\atkinson_p\documents\visual studio 2017\Projects\PDF2JPG\PDF2JPG\bin\Debug\Ghostscript.NET.xml
